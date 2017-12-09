@@ -1,0 +1,3 @@
+"0","news<-read.csv("".././data/OnlineNewsPopularity/OnlineNewsPopularity.csv"")"
+"0","small <- news[2:5]"
+"0","head(small) # Too many columns"

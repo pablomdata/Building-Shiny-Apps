@@ -1,0 +1,5 @@
+"0","news<-read.csv('./data/OnlineNewsPopularity/OnlineNewsPopularity.csv')
+"
+"2","cannot open file './data/OnlineNewsPopularity/OnlineNewsPopularity.csv': No such file or directory"
+"2","Error in file(file, ""rt"") : cannot open the connection
+"

@@ -1,0 +1,4 @@
+"0","df <- data.frame( Weather = c(""Cold"",""Mild"",""Cold"",""Ok"")"
+"0","               , Cities = c(""Prague"", ""Brno"", ""Ostrava"", ""Zlin"")"
+"0","               )"
+"0","df"
