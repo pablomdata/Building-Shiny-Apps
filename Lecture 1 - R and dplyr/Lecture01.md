@@ -1,16 +1,3 @@
----
-title: "Building Shiny Apps"
-author: "Pablo Maldonado"
-date: ''
-output:
-  ioslides_presentation: default
-  beamer_presentation: default
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 # Quick Intro
 
 ## About me:

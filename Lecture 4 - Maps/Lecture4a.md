@@ -1,9 +1,5 @@
----
-title: "Maps in R"
-output: html_notebook
----
+# Maps in R
 
-Today we will talk about maps in R, using R Notebook (new feature of RStudio).
 
 
 # Leaflet

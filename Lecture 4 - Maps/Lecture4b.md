@@ -1,7 +1,4 @@
----
-title: "Lecture 4b: Reactive expressions in maps"
-output: html_notebook
----
+# Lecture 4b: Reactive expressions in maps
 
 Let's try something else with the maps, to complete the next part of the wireframe.
 

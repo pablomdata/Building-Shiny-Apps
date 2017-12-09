@@ -1,14 +1,3 @@
----
-title: "ggplot2"
-author: "Pablo Maldonado"
-date: "October 20, 2016"
-output: ioslides_presentation
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 # Hands-on with ggplot
 
 ## Recap:

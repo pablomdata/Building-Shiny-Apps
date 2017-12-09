@@ -1,15 +1,4 @@
----
-title: "Dashboards in Shiny"
-author: "Pablo Maldonado"
-date: "November 3, 2016"
-output: ioslides_presentation
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-## Shinydashboard package
+# Shinydashboard package
 
 We willl use the [shinydashboard](https://rstudio.github.io/shinydashboard/get_started.html) library, that offers a very nice layout for creating dashboards.
 

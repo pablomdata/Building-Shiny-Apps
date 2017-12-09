@@ -1,8 +1,3 @@
----
-title: "Choropleths"
-output: html_notebook
----
-
 **Chropleths** are maps in which the areas are shaded (or something is drawn into them) in proportion of a measurement being displayed.
 
 ```{r}
