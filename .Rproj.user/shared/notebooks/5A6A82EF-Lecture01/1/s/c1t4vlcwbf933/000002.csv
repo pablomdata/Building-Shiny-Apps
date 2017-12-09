@@ -1,5 +1,0 @@
-"0","# Vectors and types"
-"0","x <- c(0.5,0.6) #numeric"
-"0","x <- c(T,F) #logical"
-"0","x <- c(""a"",""b"",""c"") #character"
-"0","x <- c(1+0i,2+4i) #complex"
